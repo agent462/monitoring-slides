@@ -1,0 +1,15 @@
+{
+    "name": "All the monitoring",
+    "description": "A monitoring system that aims to be simple, malleable, and scalable.",
+    "author": "Bryan Brandau <agent462@gmail.com>",
+    "sections": [
+        {"section":"intro"},
+        {"section":"sensu"},
+        {"section":"collectd"},
+        {"section":"graphite"},
+        {"section":"log"},
+        {"section":"tie"},
+        {"section":"close"},
+        {"section":"end"}
+    ]
+}
